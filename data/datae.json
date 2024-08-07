@@ -1,0 +1,198 @@
+[
+    {
+        "id" : 1,
+        "upperT":"Descubrimiento",
+        "title" : "Wine Experience",
+        "info": "Experiencia guiada",
+        "precio": 45,
+        "img":"../img/experiencias/wine_mobile.jpg",
+        "detalles":[
+            {
+                "descripcion": "El Wine Experience es una experiencia guiada que cuenta con varios pasos, al llegar a nuestras instalaciones será recibido en nuestro House con algún jugo de nuestros cítricos o aguas saborizadas."
+            },
+            {
+                "descripcion": "Ofrecemos con esto el uso de nuestras acogedoras instalaciones (excepto piscina) y el recorrido guiado por las viñas y cata en la cava línea Cuna de Piedra Estate"
+            },
+            {
+                "descripcion": "Al finalizar el testing se brindará una degustación de 5 tapeos o Pic-nic entre las viñas a su elección (incluye agua saborizada con frutas de estación)"
+            }
+        ],
+        "carrusel":[
+            {
+                "src":"../img/experiencias/wine_mobile.jpg"
+            },
+            {
+                "src":"../img/experiencias/wine_sunset_mobile.jpg"
+            },
+            {
+                "src":"../img/experiencias/pic_mobile.jpg"
+            },
+            {
+                "src":"../img/experiencias/menu_3_pasos_mobile.jpg"
+            }
+        ]
+        
+    },
+    {
+        "id" : 2,
+        "upperT":"Descubrimiento",
+        "title" : "Wine Sunset Experience",
+        "info": "Cata al atardecer",
+        "precio": 40,
+        "img":"../img/experiencias/wine_sunset_mobile.jpg",
+        "detalles":[
+            {
+                "descripcion": "Cata al atardecer. Incluye 5 vino reserva de bodega Los Cerros de San Juan. Acompañado de tradicional picada de campo."
+            },
+            {
+                "descripcion": "Al llegar a nuestras instalaciones será recibido en nuestro House con algún jugo de nuestros cítricos o aguas saborizadas."
+            },
+            {
+                "descripcion": "Ofrecemos con esto el uso de nuestras acogedoras instalaciones y el recorrido guiado por las viñas."
+            }
+        ],
+        "carrusel":[
+            {
+                "src":"../img/experiencias/wine_mobile.jpg"
+            },
+            {
+                "src":"../img/experiencias/wine_sunset_mobile.jpg"
+            },
+            {
+                "src":"../img/experiencias/pic_mobile.jpg"
+            },
+            {
+                "src":"../img/experiencias/menu_3_pasos_mobile.jpg"
+            }
+        ]
+    },
+    {
+        "id" : 3,
+        "upperT":"Descubrimiento",
+        "title" : "Menu de 3 pasos",
+        "info": "Almuerzo con maridaje",
+        "precio": 45,
+        "img":"../img/experiencias/menu_3_pasos_mobile.jpg",
+        "detalles":[
+            {
+                "descripcion": "Almuerzo con maridaje, incluye entrada, plato principal y postre. Acompañado por 2 copas de vino, una linea Lahusen y otra linea Maderos."
+            },
+            {
+                "descripcion": "Al llegar a nuestras instalaciones será recibido en nuestro House con algún jugo de nuestros cítricos o aguas saborizadas. Ofrecemos con esto el uso de nuestras acogedoras instalaciones y el recorrido guiado por las viñas."
+            }
+        ],
+        "carrusel":[
+            {
+                "src":"../img/experiencias/wine_mobile.jpg"
+            },
+            {
+                "src":"../img/experiencias/wine_sunset_mobile.jpg"
+            },
+            {
+                "src":"../img/experiencias/pic_mobile.jpg"
+            },
+            {
+                "src":"../img/experiencias/menu_3_pasos_mobile.jpg"
+            }
+        ]
+    },
+    {
+        "id" : 4,
+        "upperT":"Descubrimiento",
+        "title" : "Pic Nic",
+        "info": "Para mayores de 18 años con costo adicional",
+        "precio": 45,
+        "img":"../img/experiencias/pic_mobile.jpg",
+        "detalles":[
+            {
+                "descripcion": "Es una propuesta descontracturada que consta de una canasta british totalmente equipada con una manta para instalarse en el área que más guste el comensal, llámese área de pic nic, viñedos, solarium parque, etc… Inlcluye:."
+            },
+            {
+                "descripcion": "Un vino blanco o tinto a elección."
+            },
+            {
+                "descripcion": "2 empanadas de carne o vegetarianas."
+            },
+            {
+                "descripcion": "tartas dulces de la variedad de la casa a elección aguas y jugos."
+            }
+        ],
+        "carrusel":[
+            {
+                "src":"../img/experiencias/wine_mobile.jpg"
+            },
+            {
+                "src":"../img/experiencias/wine_sunset_mobile.jpg"
+            },
+            {
+                "src":"../img/experiencias/pic_mobile.jpg"
+            },
+            {
+                "src":"../img/experiencias/menu_3_pasos_mobile.jpg"
+            }
+        ]
+    },
+    {
+        "id" : 5,
+        "upperT":"Aventura",
+        "title" : "Cabalgatas",
+        "info": "Cabalgatas en la Finca con reserva previa",
+        "precio": "Con costo adicional",
+        "img":"../img/experiencias/wine_mobile.jpg",
+        "detalles":[
+            {
+                "descripcion": "Es una propuesta descontracturada que consta de una canasta british totalmente equipada con una manta para instalarse en el área que más guste el comensal, llámese área de pic nic, viñedos, solarium parque, etc… Inlcluye:."
+            },
+            {
+                "descripcion": "Un vino blanco o tinto a elección."
+            },
+            {
+                "descripcion": "2 empanadas de carne o vegetarianas."
+            },
+            {
+                "descripcion": "tartas dulces de la variedad de la casa a elección aguas y jugos."
+            }
+        ],
+        "carrusel":[
+            {
+                "src":"../img/experiencias/wine_mobile.jpg"
+            },
+            {
+                "src":"../img/experiencias/wine_sunset_mobile.jpg"
+            },
+            {
+                "src":"../img/experiencias/pic_mobile.jpg"
+            },
+            {
+                "src":"../img/experiencias/menu_3_pasos_mobile.jpg"
+            }
+        ]
+    },
+    {
+        "id" : 6,
+        "upperT":"Aventura",
+        "title" : "Bicicletas",
+        "info": "Bicicletas a su disposición de 8 a 20hs",
+        "precio": "Sin costo",
+        "img":"../img/experiencias/wine_mobile.jpg",
+        "detalles":[
+            {
+                "descripcion": "Cuenta con bicicletas vintage para pasear en sus instalaciones, recorrer 20 hectáreas y viñedos de acceso para todo huésped o comensal."
+            }
+        ],
+        "carrusel":[
+            {
+                "src":"../img/experiencias/wine_mobile.jpg"
+            },
+            {
+                "src":"../img/experiencias/wine_mobile.jpg"
+            },
+            {
+                "src":"../img/experiencias/wine_mobile.jpg"
+            },
+            {
+                "src":"../img/experiencias/wine_mobile.jpg"
+            }
+        ]
+    }
+]
